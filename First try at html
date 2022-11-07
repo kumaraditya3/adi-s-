@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Line Break Example</title>
+</head>
+<body bgcolor="cyan">
+<center><h1 style="backgroundcolor:">Welcome to Internet Programming</h1></center>
+<hr>
+<center><h2 style="background-color:rgb(196, 139, 144)"> This is internet programming class </h2></center>
+<h3 style="background-color:azure">We will learn about HTML CSS & JAVA SCRIPT</h3>
+hello there , we are having  CSE 326 tutorial classes today hello<br>
+LPU = LOVELY PROFESSIONAL UNIVERSITY<br>
+<h5>Hello</h5>
+<p>Wish you a very happy birthday 
+         many many happy returns of the day
+         <mark>hello</mark>God Bless You
+</p>
+<pre bgcolor=red style="color:brown;background-color:bisque; font:bolder; font-size:0.50cm; font-style:initial; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" >Wish you a very happy birthday 
+    many many happy returns of the day
+    God Bless You</pre>
+    <p>The formula for water is H<sub>2</sub>O</p>
+    <p>The equation is :2x<sup>2</sup>+6</p>
+    <marquee style= "margin-left:20%"color:blue;font-size:40;font-style:italic; background-color:white" 
+    behaviour="scroll" direction="right" scrollamount="10"
+    height="25px">
+    <mark><a href="https://lpu.in/" target="_blank">ENROLL FOR THE COURSE NOW!!!!</a></mark>
+</marquee>
+<img src="LAB Wallpaper.jpg" alt="logo" height="200" width="200"/>
+<a href="https://lpu.in/" target="_blank"> Click Here</a>
+</body>
+</html>
